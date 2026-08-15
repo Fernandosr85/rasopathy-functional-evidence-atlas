@@ -1,6 +1,5 @@
-# Downloaded source data -- large, and re-fetched by the notebook
+# ClinVar releases -- exceed GitHub's file size limit, permanently archived on the NCBI FTP
 *.txt.gz
-mavedb_scores/
 supplements/
 
 # Notebook cruft

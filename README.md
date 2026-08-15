@@ -124,6 +124,11 @@ recovered_percentiles.csv      where those variants sit in each distribution
 calibration_feasibility.csv    controls available per score set
 ```
 
+`mavedb_scores/` holds the score-set CSVs exactly as retrieved, so the offset resolution
+can be checked without re-querying the API. The ClinVar releases are not committed —
+they exceed GitHub's file size limit and are permanently archived at the NCBI FTP paths
+listed above.
+
 ## Status
 
 Work in progress. The blocked-variant records are being reviewed by hand; until that
