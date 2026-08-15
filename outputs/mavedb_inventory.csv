@@ -1,0 +1,15 @@
+gene,status,n_scoresets,scoresets,total_reported,scored_variants,blocked_vus
+PTPN11,200,0,,0,0,3
+SOS1,200,0,,0,0,7
+RAF1,200,9,urn:mavedb:00000061-a-1; urn:mavedb:00000061-b-1; urn:mavedb:00000061-c-1; urn:mavedb:00000061-d-1; urn:mavedb:00000061-e-1; urn:mavedb:00000061-f-1; urn:mavedb:00000061-g-1; urn:mavedb:00000061-h-1; urn:mavedb:00000061-i-1,9,2682,3
+RIT1,200,0,,0,0,2
+KRAS,200,0,,0,0,1
+NRAS,200,0,,0,0,5
+HRAS,200,4,urn:mavedb:00000057-a-1; urn:mavedb:00000057-b-1; urn:mavedb:00000057-c-1; urn:mavedb:00000057-d-1,4,13200,2
+BRAF,200,1,urn:mavedb:00000091-a-1,1,73,3
+MAP2K1,200,0,,0,0,0
+MAP2K2,200,0,,0,0,8
+SHOC2,200,0,,0,0,1
+CBL,200,0,,0,0,0
+LZTR1,200,0,,0,0,5
+RRAS2,200,0,,0,0,0
