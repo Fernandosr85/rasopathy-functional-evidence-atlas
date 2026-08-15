@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: RASopathy Functional Evidence Atlas
+message: If you use this work, please cite it.
+type: software
+authors:
+  - given-names: Fernando
+    family-names: S. R.
+    alias: fernandosr85
+abstract: >-
+  An audit of how much functional evidence underpins ClinGen RASopathy VCEP
+  variant classifications, reproducible from public ClinVar and MaveDB data.
+keywords:
+  - ClinVar
+  - MaveDB
+  - variant curation
+  - RASopathy
+  - ACMG
+  - functional evidence
+license: MIT

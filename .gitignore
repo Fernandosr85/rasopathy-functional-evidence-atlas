@@ -1,0 +1,9 @@
+# Downloaded source data -- large, and re-fetched by the notebook
+*.txt.gz
+mavedb_scores/
+supplements/
+
+# Notebook cruft
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
