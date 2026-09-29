@@ -129,6 +129,15 @@ can be checked without re-querying the API. The ClinVar releases are not committ
 they exceed GitHub's file size limit and are permanently archived at the NCBI FTP paths
 listed above.
 
+## Related
+
+The curation audit this grew out of has two successors on the same gene panel:
+[rasopathy-evidence-audits](https://github.com/Fernandosr85/rasopathy-evidence-audits), which asks
+whether the evidence behind a classification holds up, and
+[clinvar-functional-evidence-asymmetry](https://github.com/Fernandosr85/clinvar-functional-evidence-asymmetry),
+which asks the prior question of whether a statement about functional evidence is recorded in
+ClinVar at all, and whether the category is stable enough to count.
+
 ## Status
 
 Work in progress. The blocked-variant records are being reviewed by hand; until that
